@@ -17,7 +17,8 @@ Sistema orientado a objetos en Java que modela la gestión de competencias depor
 
 ##  Diagrama de Clases UML
 
-![Diagrama de Clases](diagrams/diagrama-clases.png)
+![Diagrama de Clases](<img width="1198" height="1794" alt="SistemadeGestiondeTorneosDeportivos 3 0 drawio" src="https://github.com/user-attachments/assets/639bb340-266e-4b33-bd65-755f4d4043d2" />
+)
 
 ---
 
