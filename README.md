@@ -245,6 +245,10 @@ GestorTorneos gestor = new GestorTorneos(notif);
 
 [https://github.com/esteban-vargas03/Sistema-de-Gestion-de-Torneos-Deportivos-Grupo-7](https://github.com/esteban-vargas03/Sistema-de-Gestion-de-Torneos-Deportivos-Grupo-7)
 
+
+## Video de Sustentación
+[Ver video en YouTube](https://youtu.be/4qizaiXy2r4)
+
 ---
 
 *Proyecto de Programación y Diseño Orientado a Objetos — Corhuila 2026*
